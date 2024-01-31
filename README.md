@@ -1,6 +1,6 @@
 # Projeto Pagina de login Instagram
 
-## 🖥️ [https://brbmiranda.github.io/spiderman-multiverses/](https://brbmiranda.github.io/pagina-inicial-instagram/)
+## 🖥️ https://brbmiranda.github.io/pagina-inicial-instagram/
 
 Reconstrução de página responsiva de login do Instagram, feito com uso de CSS com Flexbox. 
 
